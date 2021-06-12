@@ -146,11 +146,13 @@ h1, h2, h3 {
 #mc_embed_signup input.button {
   background-color: #E52F66;
   border: none;
-  border-radius: 5px;
   color: white;
-  padding: 12px 32px;
   text-decoration: none;
   cursor: pointer;
+}
+
+#mc_embed_signup input.button {
+    background-color: #ed4a7c;
 }
 
 #nav .selected {

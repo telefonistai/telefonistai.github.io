@@ -151,7 +151,7 @@ h1, h2, h3 {
   cursor: pointer;
 }
 
-#mc_embed_signup input.button {
+#mc_embed_signup input.button:hover {
     background-color: #ed4a7c;
 }
 

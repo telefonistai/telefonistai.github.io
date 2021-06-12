@@ -30,7 +30,7 @@ h1, h2, h3 {
 
 #artistbox {
     background-color: rgba(0,0,0,0.4);
-    width: 49%;
+    width: 50%;
     border-style: solid;
     border-width: 1px;
     border-color: #0C0C0C; 
@@ -55,7 +55,7 @@ h1, h2, h3 {
 }
 
 #artists-row {
-    margin: 10px;
+    margin: 0px;
 }
 
 #artists-row img.imglink {
@@ -88,6 +88,7 @@ h1, h2, h3 {
 #contentbox {
     margin-left: auto;
     margin-right: auto;
+    white-space: nowrap;
 
     width: 600px;
     text-align: center;

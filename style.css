@@ -144,6 +144,7 @@ h1, h2, h3 {
     display: block;
 }
 #mc_embed_signup input.button {
+  -webkit-appearance: none;
   background-color: #E52F66;
   border: none;
   color: white;

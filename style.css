@@ -23,7 +23,9 @@ a:hover {
 h1, h2, h3 {
     margin: 0;
     color: rgb(255, 255, 255);
-    font-family: 'Poppins', cursive;
+    font-family: 'Poppins', sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #artistbox {

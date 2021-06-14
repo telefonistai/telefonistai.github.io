@@ -188,4 +188,7 @@ p .emphasized {
     #artists {
         grid-template-columns: repeat(2, 1fr);
     }
+    #artists img.imglink {
+        width: 35%;
+    }    
 }

@@ -21,19 +21,15 @@ a:hover {
 }
 
 h1, h2, h3 {
-    margin: 0;
     color: rgb(255, 255, 255);
     font-family: 'Poppins', sans-serif;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding: 5px;
+    margin: auto;
 }
 
 #artistbox {
-    background-color: rgba(0,0,0,0.4);
-    border-style: solid;
-    border-width: 1px;
-    border-color: #0C0C0C; 
-    max-width: 1200px;
+    background: rgb(128,24,55);
+    background: radial-gradient(circle, rgb(37, 37, 37) 0%, rgb(0, 0, 0) 100%);    max-width: 1200px;
     margin: 0 auto;
     display: grid;
   }
@@ -81,9 +77,8 @@ h1, h2, h3 {
     background: radial-gradient(circle, rgba(106,0,110,1) 0%, rgba(0,16,97,1) 100%);
  */
     /*background-image: url('img/bg.png');*/
-    background-color: #181717;
-    background-size: cover;
-    background-attachment: fixed;
+    background: rgb(25,23,24);
+    background: radial-gradient(circle, rgb(104, 69, 80), rgb(39, 20, 29) 0% 100%);    
     background-position: center center;
     width:100%;
     margin-left: auto;
@@ -112,7 +107,7 @@ h1, h2, h3 {
 }
 
 #content {
-    padding: 10px;
+    padding: 10px; 
 }
 
 #nav {

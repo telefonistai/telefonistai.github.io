@@ -33,8 +33,7 @@ h1, h2, h3 {
     display: grid;
     border-style: solid;
     border-width: 1px;
-    border-color: #000000; 
-
+    border-color: #d1d1d1; 
   }
 #artistbox img {
     max-width: 100%;
@@ -44,7 +43,8 @@ h1, h2, h3 {
     text-align: center;
     background: rgb(24, 24, 24);
     border-top: 1px solid;
-    border-color: #646464; 
+    border-color: #969696; 
+    
 }
 
 #artistbox a:hover {
@@ -57,6 +57,7 @@ h1, h2, h3 {
     display: grid;
     grid-gap: 1rem;
     grid-template-columns: repeat(3, 1fr);
+    
 }
 
 #artistbox img {
@@ -108,7 +109,7 @@ h1, h2, h3 {
 }
 
 #content {
-    padding: 10px; 
+    padding: 16px; 
 }
 
 #nav {

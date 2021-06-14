@@ -21,17 +21,20 @@ a:hover {
 }
 
 h1, h2, h3 {
-    color: rgb(255, 255, 255);
+    color: rgb(27, 27, 27);
     font-family: 'Poppins', sans-serif;
-    padding: 5px;
+    padding: 15px 5px 15px 5px;
     margin: auto;
 }
 
 #artistbox {
-    background: rgb(128,24,55);
-    background: radial-gradient(circle, rgb(37, 37, 37) 0%, rgb(0, 0, 0) 100%);    max-width: 1200px;
+    background: rgb(255, 255, 255);
     margin: 0 auto;
     display: grid;
+    border-style: solid;
+    border-width: 1px;
+    border-color: #000000; 
+
   }
 #artistbox img {
     max-width: 100%;
@@ -39,10 +42,9 @@ h1, h2, h3 {
 
 #artistbox a {
     text-align: center;
-    background: #000;
-    border-style: solid;
-    border-width: 1px;
-    border-color: #0C0C0C; 
+    background: rgb(24, 24, 24);
+    border-top: 1px solid;
+    border-color: #646464; 
 }
 
 #artistbox a:hover {
@@ -62,7 +64,7 @@ h1, h2, h3 {
 }
 
 #artists img.imglink {
-    width: 30%;
+    width: 25%;
     padding: 10px;
 }
 
@@ -77,9 +79,8 @@ h1, h2, h3 {
     background: radial-gradient(circle, rgba(106,0,110,1) 0%, rgba(0,16,97,1) 100%);
  */
     /*background-image: url('img/bg.png');*/
-    background: rgb(25,23,24);
-    background: radial-gradient(circle, rgb(104, 69, 80), rgb(39, 20, 29) 0% 100%);    
-    background-position: center center;
+    background: rgb(247,247,247);
+    background: radial-gradient(circle, rgba(247,247,247,1) 0%, rgba(226,226,226,1) 100%);    background-position: center center;
     width:100%;
     margin-left: auto;
     margin-right: auto;
@@ -128,7 +129,7 @@ h1, h2, h3 {
     width: 100%;
     float: left;
     text-align: center;
-    color: white;
+    color: rgb(26, 26, 26);
 }
 
 #footer {

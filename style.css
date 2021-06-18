@@ -178,6 +178,7 @@ p .emphasized {
     color: #E52F66;    
 }
 
+
 @media screen and (max-width: 768px) {
     #contentbox {
         width:100%;

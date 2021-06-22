@@ -161,29 +161,29 @@ a:hover {
 
 @media only screen and (max-width: 1800px) { /* Specific to this particular image */
     #landingbox {
-        width: 30%;
+        width: 25%;
     }
 }
 
 @media only screen and (max-width: 1500px) {
     #landingbox {
-        width: 40%;
+        width: 30%;
     }
 }
 
 @media only screen and (max-width: 1200px) {
     #landingbox {
-        width: 60%;
+        width: 40%;
     }
 }
 
 @media only screen and (max-width: 900px) {
     #landingbox {
-        width: 80%;
+        width: 50%;
     }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 700px) {
     #landingbox {
         width: 95%;
     }

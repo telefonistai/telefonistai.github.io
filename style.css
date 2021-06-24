@@ -131,6 +131,7 @@ h1, h2, h3 {
     float: left;
     text-align: center;
     color: rgb(26, 26, 26);
+    white-space: normal;   
 }
 
 #footer {

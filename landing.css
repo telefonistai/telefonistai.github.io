@@ -58,7 +58,7 @@ h2 {
 
 #container {
         /* Full height */
-        padding: 0.05px;
+        padding: 16px;
     
     
 }  
@@ -98,10 +98,9 @@ a {
     text-align: center;
     padding-top: 20px;
     padding-bottom: 20px;
-    background-color: #1f1f1f;
 
 }
-a:hover {
+.btn-stream:hover {
     background-color: #252525;
 
 }

@@ -137,6 +137,13 @@ a {
 
 }
 
+.play-spotify {
+}
+
+.play-youtube {
+
+}
+
 .btn-wrapper {
     border-top: 1px solid #474747;
 }
@@ -144,7 +151,6 @@ a {
 .glow {
     border: 1px solid rgb(0, 204, 44);
     box-shadow: 0 0 30px rgb(0, 204, 44);
-
 }
 
 .btn-img img{

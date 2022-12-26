@@ -139,9 +139,13 @@ a {
 
 .btn-wrapper {
     border-top: 1px solid #474747;
-
 }
 
+.glow {
+    border: 1px solid rgb(0, 204, 44);
+    box-shadow: 0 0 30px rgb(0, 204, 44);
+
+}
 
 .btn-img img{
     width:120px;
